@@ -1,0 +1,26 @@
+{
+    "name": "Example",           
+    "version": "!.0",        
+    "release": "1",        
+    "architecture": "amd64",   
+    "description": "Example text",    
+    "maintainer": "ExampleDev",     
+    "license": "Example",        
+    "homepage": "string",       
+    "dependencies": [           
+        {
+            "name": "Example",
+            "version": "2",
+            "condition": "Example"  
+        }
+    ],
+    "conflicts": [              
+        "example2-1.2.3"
+    ],
+    "provides": [             
+        "example"
+    ],
+    "replaces": [             
+        "example"
+    ]
+}

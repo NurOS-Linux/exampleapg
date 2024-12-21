@@ -1,0 +1,12 @@
+{
+    "files": [
+        {
+            "path": "Example",       
+            "type": "Example",        
+            "mode": "755",       
+            "owner": "Example",     
+            "group": "Example",  
+            "target": "Example"   
+        }
+    ]
+}
