@@ -6,7 +6,8 @@
     "description": "Example text",    
     "maintainer": "ExampleDev",     
     "license": "Example",        
-    "homepage": "string",       
+    "homepage": "string",
+    "conffilres": "/emaple/example",       
     "dependencies": [           
         {
             "name": "Example",
