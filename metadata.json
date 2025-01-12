@@ -7,7 +7,7 @@
     "maintainer": "ExampleDev",     
     "license": "Example",        
     "homepage": "string",
-    "conffilres": "/emaple/example",       
+    "conffiles": "/emaple/example",       
     "dependencies": [           
         {
             "name": "Example",
